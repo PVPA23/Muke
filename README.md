@@ -1,4 +1,4 @@
-# 🤖 MUKeka — FRC Team Prodixy #9195 (2026)
+# Muke — FRC Team Prodixy #9195 (2026)
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![WPILib](https://img.shields.io/badge/WPILib-2026-red?style=flat-square)
@@ -9,7 +9,7 @@ Repositório oficial do código de controle do robô **MUKeka**, desenvolvido em
 
 ---
 
-## ⚙️ Arquitetura e Subsistemas
+## Arquitetura e Subsistemas
 
 O projeto utiliza a estrutura **Command-Based** da WPILib, dividindo responsabilidades em três subsistemas principais:
 
@@ -34,7 +34,7 @@ O projeto utiliza a estrutura **Command-Based** da WPILib, dividindo responsabil
 
 ---
 
-## 🎮 Mapeamento de Controles (Xbox Controller - Porta 0)
+## Mapeamento de Controles (Xbox Controller - Porta 0)
 
 | Controle / Botão | Ação | Subsistema |
 | :--- | :--- | :--- |
@@ -47,7 +47,7 @@ O projeto utiliza a estrutura **Command-Based** da WPILib, dividindo responsabil
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 1. Certifique-se de ter o **WPILib VS Code (2026)** e o **JDK 17** instalados.
 2. Clone este repositório:
@@ -65,4 +65,4 @@ O projeto utiliza a estrutura **Command-Based** da WPILib, dividindo responsabil
 
 ---
 
-Desenvolvido por **Vinicius Albuquerque** — Equipe **Prodixy #9195** 🚀
+Desenvolvido por **Vinicius Albuquerque** — Equipe **Prodixy #9195** 
