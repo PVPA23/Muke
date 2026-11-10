@@ -5,7 +5,7 @@
 ![REVLib](https://img.shields.io/badge/REVLib-SparkMax-orange?style=flat-square)
 ![PhotonVision](https://img.shields.io/badge/PhotonVision-Vision-00A8E8?style=flat-square)
 
-Repositório oficial do código de controle do robô **MUKeka**, desenvolvido em **Java (WPILib Command-Based)** para a equipe **Prodixy (#9195)** na temporada **FRC 2026**.
+Repositório oficial do código de controle do robô **Muke**, desenvolvido em **Java (WPILib Command-Based)** para a equipe **Prodixy (#9195)** na temporada **FRC 2026**.
 
 ---
 
@@ -52,7 +52,7 @@ O projeto utiliza a estrutura **Command-Based** da WPILib, dividindo responsabil
 1. Certifique-se de ter o **WPILib VS Code (2026)** e o **JDK 17** instalados.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/PVPA23/MUKeka.git
+   git clone https://github.com/PVPA23/Muke.git
    ```
 3. Para compilar o código:
    ```bash
@@ -65,4 +65,4 @@ O projeto utiliza a estrutura **Command-Based** da WPILib, dividindo responsabil
 
 ---
 
-Desenvolvido por **Vinicius Albuquerque** — Equipe **Prodixy #9195** 
+Desenvolvido por **Vinicius Albuquerque** — Equipe **Prodixy #9195**
